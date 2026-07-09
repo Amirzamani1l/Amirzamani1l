@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:7f1d1d,100:f5a623&height=200&section=header&text=AMIR%20ZAMANI&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=BlackHydra%20%C2%B7%20Hardware%20%C2%B7%20Firmware%20%C2%B7%20Algorithmic%20Trading&descAlignY=64&descSize=17&descColor=f5a623" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:7f1d1d,100:f5a623&height=200&section=header&text=AMIR%20ZAMANI&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=BlackHydra%20%C2%B7%20Hardware%20%C2%B7%20Firmware%20%C2%B7%20Algorithmic%20Trading&descAlignY=64&descSize=17&descColor=f5a623" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=F5A623&center=true&vCenter=true&width=650&lines=Robotics+engineer+%7C+Quant-minded+developer;2nd+%E2%80%94+NTE+Robotics+%7C+3rd+%E2%80%94+Robotics+Eng.+Notebook;Delegate+%E2%80%94+First+Global+Challenge+2024%2C+Athens+%F0%9F%87%AC%F0%9F%87%B7" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2400&pause=800&color=F5A623&center=true&vCenter=true&width=650&lines=Robotics+engineer+%7C+Quant-minded+developer;2nd+%E2%80%94+NTE+Robotics+%7C+3rd+%E2%80%94+Robotics+Eng.+Notebook;Delegate+%E2%80%94+First+Global+Challenge+2024%2C+Athens+%F0%9F%87%AC%F0%9F%87%B7" />
 
 <br/>
 
@@ -11,18 +11,18 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f5a623,50:7f1d1d,100:000000&height=5" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <h3 align="center">⚙️ In Motion</h3>
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="95"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="95"/>
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="95"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="95"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="95"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="95"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="110"/>
 
 </div>
 
@@ -40,7 +40,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7f1d1d,100:f5a623&height=5" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <h3 align="center">🧠 Featured Build — REOS</h3>
 
@@ -63,7 +63,7 @@
 
 <p align="center"><b>Also shipped:</b> 🎥 OpenCV Vision &nbsp;·&nbsp; 📈 Pine Script Strategies &nbsp;·&nbsp; 🤖 MQL4/5 EAs &nbsp;·&nbsp; 🌐 Portfolio</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f5a623,50:7f1d1d,100:000000&height=5" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:7f1d1d,100:f5a623&height=5" />
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
 <div align="center">
 
