@@ -1,36 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,50:6a0dad,100:00ff9c&height=160&section=header&text=BLACKHYDRA&fontSize=50&fontColor=00ff9c&animation=twinkling&fontAlignY=45&desc=AMIR%20ZAMANI&descAlignY=68&descSize=18&descColor=A855F7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0f0f,50:6a0dad,100:00ff9c&height=180&section=header&text=AMIR%20ZAMANI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=BlackHydra%20%C2%B7%20Hardware%20%C2%B7%20Firmware%20%C2%B7%20Algorithmic%20Trading&descAlignY=62&descSize=16&descColor=00ff9c" />
 
-</div>
-
-```ansi
-[0;32mroot@blackhydra[0m:[0;35m~[0m$ whoami
-[0;36m>[0m Hardware & Firmware Dev · Algorithmic Trader · Robotics Engineer
-[0;36m>[0m 2nd — NTE Robotics   |   3rd — Robotics Engineering Notebook
-[0;36m>[0m Delegate — First Global Challenge 2024, Athens 🇬🇷
-[0;32mroot@blackhydra[0m:[0;35m~[0m$ status
-[0;33m>[0m OPEN TO WORK
-```
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=580&lines=building+at+the+edge+of+hardware+and+software;shipping+trading+bots+that+don%27t+sleep;from+microcontrollers+to+full+stack+platforms" />
-
-<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0f0f0f" height="24"/>
-
-</div>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=600&lines=Robotics+engineer+%7C+Quant-minded+developer;2nd+%E2%80%94+NTE+Robotics+%7C+3rd+%E2%80%94+Robotics+Eng.+Notebook;Delegate+%E2%80%94+First+Global+Challenge+2024%2C+Athens+%F0%9F%87%AC%F0%9F%87%B7" />
 
 <br/>
 
-<pre align="center" style="font-size:13px">
-██╗  ██╗ █████╗ ██████╗ ██████╗ ██╗    ██╗ █████╗ ██████╗ ███████╗
-██║  ██║██╔══██╗██╔══██╗██╔══██╗██║    ██║██╔══██╗██╔══██╗██╔════╝
-███████║███████║██████╔╝██║  ██║██║ █╗ ██║███████║██████╔╝█████╗
-██╔══██║██╔══██║██╔══██╗██║  ██║██║███╗██║██╔══██║██╔══██╗██╔══╝
-██║  ██║██║  ██║██║  ██║██████╔╝╚███╔███╔╝██║  ██║██║  ██║███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-</pre>
+<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=0f0f0f" height="26"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00ff9c?style=for-the-badge&labelColor=0f0f0f" height="26"/>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:6a0dad,100:ff2e63&height=4" />
 
 <div align="center">
 
@@ -44,30 +25,30 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:6a0dad,100:ff2e63&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e63,50:6a0dad,100:00ff9c&height=4" />
 
-<h3 align="center">🧠 root/featured — REOS</h3>
+<h3 align="center">🧠 Featured Build — REOS</h3>
 
 <p align="center"><img src="https://img.shields.io/badge/Real%20Estate%20OS-Full%20Stack%20Platform-000000?style=for-the-badge&labelColor=0f0f0f&color=00ff9c" /></p>
 
-<p align="center">Self-hosted real estate ops platform — <code>scraper → db → matching engine → AI agent → telegram bot</code>, wired end to end.</p>
+<p align="center">Self-hosted real estate ops platform — <b>scraper → database → matching engine → AI agent → Telegram bot</b>, wired end to end.</p>
 
 <div align="center">
 
-| module | function |
+| Module | Function |
 |:---:|:---|
-| 🕷️ `scraper` | Selenium crawler, verifies every listing before it hits the DB |
-| 🧮 `matching` | Scores leads against listings, zero dependencies |
-| 🧠 `ai_agent` | LLM locked to real inventory only — no hallucinated data |
-| 🤖 `tg_bot` | Full CRM control from chat |
-| 🛰️ `sat_module` | Sentinel-2 NDVI change detection |
-| 🌐 `api` | 40+ REST endpoints, OAuth + webhooks |
+| 🕷️ **Scraper** | Selenium crawler, verifies every listing before it hits the DB |
+| 🧮 **Matching Engine** | Scores leads against listings, zero dependencies |
+| 🧠 **AI Agent** | LLM locked to real inventory only — no hallucinated data |
+| 🤖 **Telegram Bot** | Full CRM control from chat |
+| 🛰️ **Satellite Module** | Sentinel-2 NDVI change detection |
+| 🌐 **REST API** | 40+ endpoints, OAuth + webhooks |
 
 </div>
 
-<p align="center"><b>also shipped:</b> 🎥 OpenCV Vision &nbsp;·&nbsp; 📈 Pine Script Strategies &nbsp;·&nbsp; 🤖 MQL4/5 EAs &nbsp;·&nbsp; 🌐 Portfolio</p>
+<p align="center"><b>Also shipped:</b> 🎥 OpenCV Vision &nbsp;·&nbsp; 📈 Pine Script Strategies &nbsp;·&nbsp; 🤖 MQL4/5 EAs &nbsp;·&nbsp; 🌐 Portfolio</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e63,50:6a0dad,100:00ff9c&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:6a0dad,100:ff2e63&height=4" />
 
 <div align="center">
 
@@ -78,13 +59,11 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff9c,50:6a0dad,100:ff2e63&height=4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e63,50:6a0dad,100:00ff9c&height=4" />
 
 <div align="center">
 
-```ansi
-[0;32mroot@blackhydra[0m:[0;35m~[0m$ cat contact.txt
-```
+### 🌐 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff9c&labelColor=0f0f0f)](https://instagram.com/amirzamani1l)
 [![Hackster](https://img.shields.io/badge/Hackster-000000?style=for-the-badge&logo=hackster&logoColor=00ff9c&labelColor=0f0f0f)](https://hackster.io/amirzamani1l)
