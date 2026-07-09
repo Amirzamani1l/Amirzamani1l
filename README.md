@@ -13,32 +13,31 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-<h3 align="center">⚙️ In Motion</h3>
+<h3 align="center">⚙️ Arsenal</h3>
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="130"/>
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="130"/>
-
-</div>
-
+<sub><b>🤖 HARDWARE &amp; EMBEDDED</b></sub>
 <br/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=kicad&logoColor=f5a623&labelColor=1a1a1a"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://img.shields.io/badge/C-f5a623?style=for-the-badge&logo=c&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/C++-f5a623?style=for-the-badge&logo=cplusplus&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/Arduino-f5a623?style=for-the-badge&logo=arduino&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/MicroPython-f5a623?style=for-the-badge&logo=micropython&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/ROS-f5a623?style=for-the-badge&logo=ros&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/TinyML-f5a623?style=for-the-badge&logo=tensorflow&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/PCB-f5a623?style=for-the-badge&logo=kicad&logoColor=000000&labelColor=000000"/>
+<sub><b>💹 TRADING &amp; QUANT</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=e63946&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/MQL4%2F5-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Crypto%20Bots-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=1a1a1a"/>
 
-<img src="https://img.shields.io/badge/Pine%20Script-e63946?style=for-the-badge&logo=tradingview&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/MQL4%2F5-e63946?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Algo%20Trading-e63946?style=for-the-badge&labelColor=000000"/> <img src="https://img.shields.io/badge/Crypto%20Bots-e63946?style=for-the-badge&logo=bitcoin&logoColor=ffffff&labelColor=000000"/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/Machine%20Learning-ffffff?style=for-the-badge&logo=scikitlearn&logoColor=000000&labelColor=000000"/> <img src="https://img.shields.io/badge/CS50AI-ffffff?style=for-the-badge&labelColor=000000&logoColor=000000"/>
+<sub><b>🧠 SOFTWARE &amp; AI</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/CS50AI%20Certified-1B4F72?style=for-the-badge&labelColor=1a1a1a"/>
 
-<img src="https://img.shields.io/badge/Networking-6b7280?style=for-the-badge&labelColor=000000&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Ducky%20Script-6b7280?style=for-the-badge&labelColor=000000&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Git-6b7280?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000"/> <img src="https://img.shields.io/badge/HW%2FSW%20Repair-6b7280?style=for-the-badge&labelColor=000000&logoColor=ffffff"/>
+<br/><br/>
+
+<sub><b>🔐 SECURITY &amp; SYSTEMS</b></sub>
+<br/>
+<img src="https://img.shields.io/badge/Networking-4B0082?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-6b7280?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
 
 </div>
 
@@ -73,10 +72,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirzamani1l&hide_border=true&background=000000&ring=f5a623&fire=e63946&currStreakLabel=f5a623&sideLabels=e63946&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Amirzamani1l&theme=dracula&no-frame=true&row=1&column=6&margin-w=4&margin-h=4" height="80"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirzamani1l&theme=dracula&hide_border=true&bg_color=000000&color=f5a623&line=e63946&point=ffffff&area=true&area_color=7f1d1d" width="90%"/>
 
 <br/>
 
