@@ -17,12 +17,14 @@
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="110"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="110"/>
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="110"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="110"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="110"/>
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="110"/>
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="130"/>
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="130"/>
 
 </div>
 
@@ -75,6 +77,10 @@
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amirzamani1l&theme=dracula&hide_border=true&bg_color=000000&color=f5a623&line=e63946&point=ffffff&area=true&area_color=7f1d1d" width="90%"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/output/github-contribution-grid-snake.svg" width="90%"/>
 
 </div>
 
