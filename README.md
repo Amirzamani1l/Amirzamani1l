@@ -17,13 +17,6 @@
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="75"/>
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="75"/>
-
-<br/>
 <sub><b>🤖 HARDWARE &amp; EMBEDDED</b></sub>
 <br/>
 <img src="https://img.shields.io/badge/C-2563eb?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-2563eb?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-2563eb?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MicroPython-2563eb?style=for-the-badge&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-2563eb?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-2563eb?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PCB%20Design-2563eb?style=for-the-badge&logo=kicad&logoColor=white"/>
@@ -34,7 +27,7 @@
 <br/>
 <sub><b>🧠 SOFTWARE &amp; AI</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-7c3aed?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-7c3aed?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-7c3aed?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-7c3aed?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <br/>
 <sub><b>🔐 SECURITY &amp; SYSTEMS</b></sub>
 <br/>
