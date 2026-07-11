@@ -21,8 +21,6 @@
     </pattern>
   </defs>
 
-  <rect width="900" height="120" fill="url(#hb)"/>
-  <rect width="900" height="120" fill="url(#hgrid)"/>
 
   <g filter="url(#hglow)">
     <text x="450.0" y="52" text-anchor="middle"
