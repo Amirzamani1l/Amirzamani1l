@@ -19,14 +19,43 @@
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
 </div>
 ### 🌐 Connect
+<div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=f5a623&labelColor=000000)](https://instagram.com/amirzamani1l)
-[![Hackster](https://img.shields.io/badge/Hackster-000000?style=for-the-badge&logo=hackster&logoColor=f5a623&labelColor=000000)](https://hackster.io/amirzamani1l)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=f5a623&labelColor=000000)](https://www.linkedin.com/in/amir-zamani-1909a8315)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=f5a623&labelColor=000000)](https://t.me/Black_Hydra)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=f5a623&labelColor=000000)](https://x.com/amirzamani1l)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=f5a623&labelColor=000000)](https://www.threads.net/@amirzamani1l)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=DC2626&center=true&vCenter=true&width=500&lines=Let's+build+something+together;Find+me+across+the+web+%E2%9A%A1;Black+Hydra+is+always+online" />
+
+<table>
+<tr>
+<td align="center" width="120">
+<a href="https://www.linkedin.com/in/amir-zamani-1909a8315">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=linkedin&logoColor=f5a623" height="40"/><br/>
+<sub><b>LinkedIn</b></sub></a>
+</td>
+<td align="center" width="120">
+<a href="https://t.me/Amirzamani1l">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=telegram&logoColor=f5a623" height="40"/><br/>
+<sub><b>Telegram</b></sub></a>
+</td>
+<td align="center" width="120">
+<a href="https://x.com/amirzamani1l">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=f5a623" height="40"/><br/>
+<sub><b>X</b></sub></a>
+</td>
+<td align="center" width="120">
+<a href="https://instagram.com/amirzamani1l">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=instagram&logoColor=f5a623" height="40"/><br/>
+<sub><b>Instagram</b></sub></a>
+</td>
+<td align="center" width="120">
+<a href="https://hackster.io/amirzamani1l">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=hackster&logoColor=f5a623" height="40"/><br/>
+<sub><b>Hackster</b></sub></a>
+</td>
+<td align="center" width="120">
+<a href="https://www.threads.net/@amirzamani1l">
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=threads&logoColor=f5a623" height="40"/><br/>
+<sub><b>Threads</b></sub></a>
+</td>
+</tr>
+</table>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:f5a623,50:dc2626,100:000000&height=110&section=footer" />
