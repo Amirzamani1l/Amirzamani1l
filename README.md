@@ -16,29 +16,8 @@
 <h3 align="center">⚙️ Arsenal</h3>
 
 <div align="center">
-
-<sub><b>🤖 HARDWARE &amp; EMBEDDED</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/C-2563eb?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-2563eb?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-2563eb?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MicroPython-2563eb?style=for-the-badge&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-2563eb?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-2563eb?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PCB%20Design-2563eb?style=for-the-badge&logo=kicad&logoColor=white"/>
-<br/>
-<sub><b>💹 TRADING &amp; QUANT</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/Pine%20Script-dc2626?style=for-the-badge&logo=tradingview&logoColor=white"/> <img src="https://img.shields.io/badge/MQL4%2F5-dc2626?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-dc2626?style=for-the-badge"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-dc2626?style=for-the-badge"/> <img src="https://img.shields.io/badge/Crypto%20Bots-dc2626?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-<br/>
-<sub><b>🧠 SOFTWARE &amp; AI</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-7c3aed?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-7c3aed?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<br/>
-<sub><b>🔐 SECURITY &amp; SYSTEMS</b></sub>
-<br/>
-<img src="https://img.shields.io/badge/Networking-0d9488?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-0d9488?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Git-0d9488?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-0d9488?style=for-the-badge&logoColor=white"/>
-
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
 </div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-<div align="center">
-
 ### 🌐 Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=f5a623&labelColor=000000)](https://instagram.com/amirzamani1l)
