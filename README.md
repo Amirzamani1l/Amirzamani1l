@@ -19,19 +19,19 @@
 
 <sub><b>🤖 HARDWARE &amp; EMBEDDED</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=kicad&logoColor=f5a623"/>
+<img src="https://img.shields.io/badge/C-1e3a5f?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-1e3a5f?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MicroPython-1e3a5f?style=for-the-badge&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-1e3a5f?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-1e3a5f?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PCB%20Design-1e3a5f?style=for-the-badge&logo=kicad&logoColor=white"/>
 <br/>
 <sub><b>💹 TRADING &amp; QUANT</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=e63946"/> <img src="https://img.shields.io/badge/MQL4%2F5-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Crypto%20Bots-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pine%20Script-7f1d1d?style=for-the-badge&logo=tradingview&logoColor=white"/> <img src="https://img.shields.io/badge/MQL4%2F5-7f1d1d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-7f1d1d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-7f1d1d?style=for-the-badge"/> <img src="https://img.shields.io/badge/Crypto%20Bots-7f1d1d?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 <br/>
 <sub><b>🧠 SOFTWARE &amp; AI</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/CS50AI%20Certified-1B4F72?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3a3a3a?style=for-the-badge&logo=python&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Flask-3a3a3a?style=for-the-badge&logo=flask&logoColor=f5a623"/> <img src="https://img.shields.io/badge/SQLite-3a3a3a?style=for-the-badge&logo=sqlite&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Machine%20Learning-3a3a3a?style=for-the-badge&logo=scikitlearn&logoColor=f5a623"/> <img src="https://img.shields.io/badge/CS50AI%20Certified-3a3a3a?style=for-the-badge&logoColor=f5a623"/>
 <br/>
 <sub><b>🔐 SECURITY &amp; SYSTEMS</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Networking-4B0082?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-000000?style=for-the-badge&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-6b7280?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-4b5563?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-4b5563?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Git-4b5563?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-4b5563?style=for-the-badge&logoColor=white"/>
 
 </div>
 
