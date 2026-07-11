@@ -18,8 +18,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
 </div>
-<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/connect/header.svg" />
-
+<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/connect/header.svg?v=3" />
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/header.svg" />
