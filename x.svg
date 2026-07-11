@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="78" viewBox="0 0 260 78" role="img" aria-label="X / TWITTER">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#0b0b0d"/>
+      <stop offset="55%"  stop-color="#111014"/>
+      <stop offset="100%" stop-color="#1a0d0d"/>
+    </linearGradient>
+
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#dc2626"/>
+      <stop offset="50%"  stop-color="#f5a623"/>
+      <stop offset="100%" stop-color="#dc2626"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
+
+    <clipPath id="clip">
+      <rect x="1.5" y="1.5" width="257" height="75" rx="12"/>
+    </clipPath>
+
+    <pattern id="grid" width="13" height="13" patternUnits="userSpaceOnUse">
+      <path d="M13 0H0V13" fill="none" stroke="#f5a623" stroke-width="0.4" opacity="0.055"/>
+    </pattern>
+
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#f5a623" stop-opacity="0"/>
+      <stop offset="45%"  stop-color="#f5a623" stop-opacity="0.16"/>
+      <stop offset="55%"  stop-color="#fff"   stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#f5a623" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- body -->
+  <rect x="1.5" y="1.5" width="257" height="75" rx="12" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="257" height="75" rx="12" fill="url(#grid)"/>
+
+  <!-- glowing edge -->
+  <g filter="url(#glow)">
+    <rect x="1.5" y="1.5" width="257" height="75" rx="12"
+          fill="none" stroke="url(#edge)" stroke-width="1.5" opacity="0.9">
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3.4s"
+               begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- travelling light sweep -->
+  <g clip-path="url(#clip)">
+    <rect x="-260" y="0" width="260" height="78" fill="url(#sweep)">
+      <animate attributeName="x" from="-260" to="260" dur="4.2s"
+               begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- corner brackets -->
+  <g stroke="#f5a623" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.95">
+    <path d="M10 20V13a3 3 0 0 1 3-3h7"/>
+    <path d="M250 20V13a3 3 0 0 0-3-3h-7"/>
+    <path d="M10 58v7a3 3 0 0 0 3 3h7"/>
+    <path d="M250 58v7a3 3 0 0 1-3 3h-7"/>
+  </g>
+
+  <!-- icon -->
+  <g transform="translate(24 27.0)">
+    <g filter="url(#soft)" opacity="0.75">
+      <rect x="1.5" y="1.5" width="21" height="21" rx="4" fill="none" stroke="#f5a623" stroke-width="1.6"/>
+      <path d="M6.8 6.8 17.2 17.2M17.2 6.8 6.8 17.2" stroke="#f5a623" stroke-width="2" stroke-linecap="round"/></g>
+    
+      <rect x="1.5" y="1.5" width="21" height="21" rx="4" fill="none" stroke="#f5a623" stroke-width="1.6"/>
+      <path d="M6.8 6.8 17.2 17.2M17.2 6.8 6.8 17.2" stroke="#f5a623" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <!-- label -->
+  <text x="66" y="35.0" font-family="'Fira Code','JetBrains Mono',ui-monospace,monospace"
+        font-size="14.5" font-weight="700" letter-spacing="2.4" fill="#f5a623">X / TWITTER</text>
+
+  <!-- status line -->
+  <g>
+    <circle cx="70" cy="52.0" r="2.6" fill="#dc2626">
+      <animate attributeName="opacity" values="1;0.15;1" dur="1.8s"
+               begin="0.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="79" y="56.0" font-family="'Fira Code',ui-monospace,monospace"
+          font-size="9.5" letter-spacing="1.6" fill="#7a5a1e">CONNECTED</text>
+  </g>
+
+  <!-- arrow -->
+  <g stroke="#dc2626" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M226 34.0 l5 5 -5 5">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s"
+               begin="0.7s" repeatCount="indefinite"/>
+    </path>
+    <path d="M232 34.0 l5 5 -5 5" opacity="0.4">
+      <animate attributeName="opacity" values="0.1;0.6;0.1" dur="2.2s"
+               begin="0.95s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
