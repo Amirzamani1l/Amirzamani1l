@@ -19,63 +19,25 @@
 
 <sub><b>🤖 HARDWARE &amp; EMBEDDED</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=kicad&logoColor=f5a623&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white"/> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/TinyML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PCB%20Design-1A1A1A?style=for-the-badge&logo=kicad&logoColor=f5a623"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>💹 TRADING &amp; QUANT</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=e63946&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/MQL4%2F5-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-e63946?style=for-the-badge&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Crypto%20Bots-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Pine%20Script-131722?style=for-the-badge&logo=tradingview&logoColor=e63946"/> <img src="https://img.shields.io/badge/MQL4%2F5-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithmic%20Trading-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Quantitative%20Analysis-e63946?style=for-the-badge"/> <img src="https://img.shields.io/badge/Crypto%20Bots-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>🧠 SOFTWARE &amp; AI</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/CS50AI%20Certified-1B4F72?style=for-the-badge&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/CS50AI%20Certified-1B4F72?style=for-the-badge"/>
 
-<br/><br/>
+<br/>
 
 <sub><b>🔐 SECURITY &amp; SYSTEMS</b></sub>
 <br/>
-<img src="https://img.shields.io/badge/Networking-4B0082?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-000000?style=for-the-badge&labelColor=1a1a1a&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-6b7280?style=for-the-badge&labelColor=1a1a1a&logoColor=white"/>
-
-</div>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-<h3 align="center">🧠 Featured Build — REOS</h3>
-
-<p align="center"><img src="https://img.shields.io/badge/Real%20Estate%20OS-Full%20Stack%20Platform-000000?style=for-the-badge&labelColor=000000&color=f5a623" /></p>
-
-<p align="center">Self-hosted real estate ops platform — <b>scraper → database → matching engine → AI agent → Telegram bot</b>, wired end to end.</p>
-
-<div align="center">
-
-| Module | Function |
-|:---:|:---|
-| 🕷️ **Scraper** | Selenium crawler, verifies every listing before it hits the DB |
-| 🧮 **Matching Engine** | Scores leads against listings, zero dependencies |
-| 🧠 **AI Agent** | LLM locked to real inventory only — no hallucinated data |
-| 🤖 **Telegram Bot** | Full CRM control from chat |
-| 🛰️ **Satellite Module** | Sentinel-2 NDVI change detection |
-| 🌐 **REST API** | 40+ endpoints, OAuth + webhooks |
-
-</div>
-
-<p align="center"><b>Also shipped:</b> 🎥 OpenCV Vision &nbsp;·&nbsp; 📈 Pine Script Strategies &nbsp;·&nbsp; 🤖 MQL4/5 EAs &nbsp;·&nbsp; 🌐 Portfolio</p>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amirzamani1l&show_icons=true&theme=dracula&hide_border=true&bg_color=000000&title_color=f5a623&icon_color=e63946&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amirzamani1l&hide_border=true&background=000000&ring=f5a623&fire=e63946&currStreakLabel=f5a623&sideLabels=e63946&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amirzamani1l&theme=dracula&no-frame=true&row=1&column=6&margin-w=4&margin-h=4" height="80"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/output/github-contribution-grid-snake.svg" width="90%"/>
+<img src="https://img.shields.io/badge/Networking-4B0082?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/Ducky%20Script-000000?style=for-the-badge&logoColor=f5a623"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Hardware%20%26%20Software%20Repair-6b7280?style=for-the-badge&logoColor=white"/>
 
 </div>
 
