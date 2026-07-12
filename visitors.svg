@@ -1,0 +1,31 @@
+<svg width="320" height="92" viewBox="0 0 320 92" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .trace { fill: none; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 30 250; animation: travel 3.2s linear infinite; }
+  @keyframes travel { to { stroke-dashoffset: -400; } }
+  .corner { stroke: #f5a623; stroke-width: 2; fill: none; opacity: .8; }
+  .pulse { animation: p 2.2s ease-in-out infinite; }
+  @keyframes p { 0%,100%{opacity:1} 50%{opacity:.3} }
+</style>
+<radialGradient id="bgV" cx="50%" cy="20%" r="90%">
+  <stop offset="0%" stop-color="#1c0a0a"/>
+  <stop offset="100%" stop-color="#020103"/>
+</radialGradient>
+<filter id="glowV" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect x="0" y="0" width="320" height="92" rx="14" fill="url(#bgV)"/>
+<rect x="3" y="3" width="314" height="86" rx="12" fill="none" stroke="#f5a623" stroke-width="1.4" opacity="0.5"/>
+<rect class="trace" x="3" y="3" width="314" height="86" rx="12" stroke="#dc2626"/>
+
+<path class="corner" d="M14 30 L14 12 L32 12"/>
+<path class="corner" d="M306 30 L306 12 L288 12"/>
+<path class="corner" d="M14 62 L14 80 L32 80"/>
+<path class="corner" d="M306 62 L306 80 L288 80"/>
+
+<circle class="pulse" cx="30" cy="46" r="5" fill="#22c55e" filter="url(#glowV)"/>
+<image href="https://komarev.com/ghpvc/?username=Amirzamani1l&label=LIVE+VISITORS&color=dc2626&style=for-the-badge&labelColor=000000" x="46" y="33" height="26"/>
+</svg>
