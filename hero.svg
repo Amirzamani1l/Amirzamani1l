@@ -1,0 +1,93 @@
+<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 54px; letter-spacing: 6px; fill: #ffffff; }
+  .sub { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 17px; letter-spacing: 1px; fill: #f5a623; }
+  .ach { font-family: 'Fira Code', monospace; font-weight: 600; font-size: 17px; fill: #ffb347; }
+  .status-text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; font-size: 14px; letter-spacing: 2px; fill: #ffffff; }
+  .corner { stroke: #f5a623; stroke-width: 2; fill: none; opacity: .8; }
+  .glowbar { animation: pulse 2.6s ease-in-out infinite; }
+  .trace { fill: none; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 30 250; animation: travel 3.2s linear infinite; }
+  @keyframes travel { to { stroke-dashoffset: -400; } }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(400px); } }
+  @keyframes glitch {
+    0%, 92%, 100% { transform: translate(0,0); opacity: 0; }
+    93% { transform: translate(-3px,1px); opacity: .7; }
+    95% { transform: translate(3px,-1px); opacity: .7; }
+    97% { transform: translate(-2px,0); opacity: .5; }
+  }
+  .clip1 rect { animation: type1 12s infinite; }
+  .clip2 rect { animation: type2 12s infinite; }
+  .clip3 rect { animation: type3 12s infinite; }
+  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:194px} 27%{width:194px} 33%{width:0} 100%{width:0} }
+  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:296px} 60%{width:296px} 66%{width:0} 100%{width:0} }
+  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:438px} 95%{width:438px} 100%{width:0} }
+</style>
+
+<radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
+  <stop offset="0%" stop-color="#1c0a0a"/>
+  <stop offset="45%" stop-color="#0d0605"/>
+  <stop offset="100%" stop-color="#020103"/>
+</radialGradient>
+
+<radialGradient id="vignette3" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+
+<linearGradient id="frameGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#f5a623"><animate attributeName="stop-color" values="#f5a623;#dc2626;#f5a623" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#dc2626"><animate attributeName="stop-color" values="#dc2626;#f5a623;#dc2626" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+
+<linearGradient id="scanGrad3" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="softglow3" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="10" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+
+<rect x="0" y="0" width="900" height="380" rx="18" fill="url(#bgGrad3)"/>
+<rect x="0" y="0" width="900" height="380" rx="18" fill="url(#vignette3)"/>
+<rect x="3" y="3" width="894" height="374" rx="16" fill="none" stroke="url(#frameGrad3)" stroke-width="2" opacity="0.6"/>
+
+<path class="corner" d="M24 60 L24 24 L60 24"/>
+<path class="corner" d="M876 60 L876 24 L840 24"/>
+<path class="corner" d="M24 320 L24 356 L60 356"/>
+<path class="corner" d="M876 320 L876 356 L840 356"/>
+
+<rect x="0" y="0" width="900" height="40" fill="url(#scanGrad3)" style="animation: scan 6s linear infinite;"/>
+
+<text x="450" y="110" text-anchor="middle" class="name" filter="url(#softglow3)">AMIR ZAMANI</text>
+<text x="447" y="110" text-anchor="middle" class="name" fill="#ffb347" style="animation: glitch 7s infinite;">AMIR ZAMANI</text>
+<text x="453" y="110" text-anchor="middle" class="name" fill="#dc2626" style="animation: glitch 7s infinite .1s;">AMIR ZAMANI</text>
+
+<text x="450" y="146" text-anchor="middle" class="sub">HARDWARE · FIRMWARE · ALGORITHMIC TRADING</text>
+
+<rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#ffb347" filter="url(#glow3)"/>
+
+<clipPath id="clip1" class="clip1"><rect x="353" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip2" class="clip2"><rect x="302" y="215" width="0" height="30"/></clipPath>
+<clipPath id="clip3" class="clip3"><rect x="231" y="215" width="0" height="30"/></clipPath>
+
+<text x="353" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">2ND — NTE ROBOTICS</text>
+<text x="302" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">3RD — ROBOTICS ENG. NOTEBOOK</text>
+<text x="231" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">DELEGATE — FIRST GLOBAL 2024, ATHENS 🇬🇷</text>
+
+<g>
+<rect x="356" y="280" width="188" height="42" rx="10" fill="#2a1006" stroke="#f5a623" stroke-width="1.4" filter="url(#glow3)"/>
+<rect class="trace" x="356" y="280" width="188" height="42" rx="10" stroke="#f5a623"/>
+<circle cx="378" cy="301" r="4" fill="#22c55e"/>
+<text x="454" y="306" text-anchor="middle" class="status-text">OPEN TO WORK</text>
+</g>
+</svg>
