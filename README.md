@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
 <br/>
-<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/visitors.svg" /></div>
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/visitors.svg" />
 
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
