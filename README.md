@@ -1,9 +1,6 @@
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
-<br/>
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
-<br/>
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-left.svg" height="30"/>
+<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=VISITORS&color=dc2626&style=for-the-badge&labelColor=000000" height="26"/>
+<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-right.svg" height="30"/>
 <img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=LIVE+VISITORS&color=dc2626&style=for-the-badge&labelColor=000000" height="26"/>
 </div>
 
