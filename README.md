@@ -13,7 +13,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 
-<h3 align="center">⚙️ Arsenal</h3>
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/skills.svg" width="100%"/>
