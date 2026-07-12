@@ -2,7 +2,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
 <br/>
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-left.svg" height="30"/>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAmirzamani1l&title=VISITORS&count_bg=%23DC2626&title_bg=%23DC2626&edge_flat=false" height="26"/>
+<img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FAmirzamani1l&label=VISITORS&icon=eye-fill&color=%23DC2626&style=for-the-badge" height="26"/>
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-right.svg" height="30"/>
 </div>
 
