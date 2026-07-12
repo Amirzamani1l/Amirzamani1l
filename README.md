@@ -2,7 +2,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
 <br/>
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-left.svg" height="30"/>
-<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=VISITORS&color=dc2626&style=for-the-badge" height="26"/>
+<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=&color=dc2626&style=for-the-badge" height="26"/>
 <img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/bracket-right.svg" height="30"/>
 </div>
 
