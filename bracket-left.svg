@@ -1,0 +1,14 @@
+<svg width="40" height="34" viewBox="0 0 40 34" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="g" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="2.5" result="b"/>
+  <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<style>
+  .pulse { animation: p 2.2s ease-in-out infinite; }
+  @keyframes p { 0%,100%{opacity:1} 50%{opacity:.35} }
+</style>
+</defs>
+<path d="M34 4 L10 4 L4 10 L4 24 L10 30 L34 30" fill="none" stroke="#dc2626" stroke-width="2.2" filter="url(#g)" class="pulse"/>
+<circle cx="10" cy="17" r="3" fill="#22c55e" filter="url(#g)"/>
+</svg>
