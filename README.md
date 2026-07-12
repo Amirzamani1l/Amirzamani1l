@@ -1,7 +1,10 @@
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
 <br/>
-<img src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/visitors.svg" />
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/Amirzamani1l/Amirzamani1l/main/hero.svg" />
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Amirzamani1l&label=LIVE+VISITORS&color=dc2626&style=for-the-badge&labelColor=000000" height="26"/>
 </div>
 
 <div align="center">
